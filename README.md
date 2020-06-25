@@ -37,6 +37,6 @@ Epochs | EM | F1
 I am currently training this model. I am currently short on time and I do not have access to faster GPUs. Training this for 1 epoch takes around 1 hour on GTX 1080 Ti.
 
 ## Contributions
-I am not an expert. My main motive behind this project was to learn about an NLP domain. If you find any conceptual or typing mistake, kindly create an issue and I'll try my best to rectify them quickly. Other contributions are also welcome. If you train the models get improved results, please make a PR. If you are interested in implementing more papers in this domain and wish to add them to this repository, I'd be happy to help. Although I am currently short on time, I'll be actively maintaining this repository.
+I am not an expert. My main motive behind this project was to learn about an NLP domain. If you find any conceptual or silly mistake, kindly create an issue and I'll try my best to rectify them quickly. Other contributions are also welcome. If you train any model and get improved results, please make a PR. If you are interested in implementing more papers in this domain and wish to add them to this repository, I'd be happy to help. Although I am currently short on time, I'll be actively maintaining this repository.
 
 
